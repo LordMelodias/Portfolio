@@ -523,3 +523,20 @@ form-button button:hover{
     transform: translateY(4px);
 }
 /**footer section end**/
+
+/*****************Media Queries****************/
+
+@media(max-width:760px){
+    .nav-item{
+        text-align: center!important;
+    }
+    
+    .pricing , .happyclients, .contactus{
+        height: auto;
+        margin-top: 50px;
+    }
+    
+    .card-second{
+        transform: translateY(0px);
+        margin: 30px 0;
+    
