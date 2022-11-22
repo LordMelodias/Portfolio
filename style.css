@@ -539,4 +539,18 @@ form-button button:hover{
     .card-second{
         transform: translateY(0px);
         margin: 30px 0;
+    }
+    
+    .contactus p{
+        padding: 0 5px;
+    }
+    
+    .footer-div:nth-child(2){
+        text-align: left!important;
+    }
+    
+    .footer-div{
+        margin: 30px 0px;
+    }
+}
     
